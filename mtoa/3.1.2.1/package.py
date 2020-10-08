@@ -38,6 +38,6 @@ def commands():
     env = globals()["env"]
 
     env.PATH.append("{root}/bin")
-    env.MAYA_MODULE_PATH.append("{root}")
+    env.MAYA_MODULE_PATH.append("{root}/modules")
     env.ARNOLD_PLUGIN_PATH.append("{root}/shaders")
     env.MTOA_STARTUP_LOG_VERBOSITY = "1"
