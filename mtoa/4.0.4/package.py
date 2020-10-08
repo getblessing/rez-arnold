@@ -1,7 +1,7 @@
 
 name = "arnold_mtoa"
 
-version = "4.0.4.r1"
+version = "4.0.4.rez1"
 
 _data = {
     # Allzpark
